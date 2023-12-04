@@ -41,8 +41,8 @@ Contributions are welcome! If you wish to improve the model, add functionalities
 Please make sure to update tests as appropriate.
 
 ## Acknowledgments
-OpenCV - The computer vision library used in this project.
-Haar Cascade Classifier - Implementation and training technique for object detection.
+- OpenCV - The computer vision library used in this project.
+- Haar Cascade Classifier - Implementation and training technique for object detection.
 
 ## Support
 For any questions, issues, or suggestions, please open an issue.
